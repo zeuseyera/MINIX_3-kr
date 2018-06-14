@@ -20,7 +20,7 @@
 <a name="문서-인쇄"></a>
 ## 단계 1 : 유용한 문서 인쇄
 
- 미닉스 3 모임에 오신 것을 환영한다. 이 페이지는 시작하는데 도움이 될 것이다. 먼저, 미닉스 3 실행에는 PC 또는 가상기계가 필요하다. 대부분의 설치 절차는 동일하지만, 몇 가지 차이가 있다. 만약 하이퍼바이저에 미닉스 3을 설치할 계획이라면, [가상기계들](http://wiki.minix3.org/doku.php?id=www:getting-started:virtualmachines) 페이지에 알린 것으로 만들어라.
+ 미닉스 3 모임에 오신 것을 환영한다. 이 페이지는 시작하는데 도움이 될 것이다. 먼저, 미닉스 3 실행에는 PC 또는 가상기계가 필요하다. 대부분의 설치 절차는 동일하지만, 몇 가지 차이가 있다. 만약 하이퍼바이저에 미닉스 3을 설치할 계획이라면, [:kr:가상기계들](./SiJakHaGi/GaSangGiGye/GaSangGiGye.md)[(영문)](http://wiki.minix3.org/doku.php?id=www:getting-started:virtualmachines) 페이지에 알린 것으로 만들어라.
 
  시작하기 전에, [설치안내](http://wiki.minix3.org/doku.php?id=usersguide:doinginstallation)를 인쇄한다. 설치가 더 원활하게 될 것이다. 아래의 설명은 요약된 것이다 그러므로 큰 그림이 있다, 하지만 안내에 모든 세부사항이 있다.
 
