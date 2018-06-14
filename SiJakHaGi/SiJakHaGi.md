@@ -3,7 +3,7 @@
 
 출처: http://www.minix3.org
 
-| [앞마당](../README.md) | [시작하기](../SiJakHaGi/SiJakHaGi.md) | 내려받기 | 모임 | 새소식 | 위키 |
+| [앞마당](../README.md) | [시작하기](../SiJakHaGi/SiJakHaGi.md) | [내려받기](http://www.minix3.org/download) | [모임](http://www.minix3.org/community) | [새소식](http://www.minix3.org/news) | [위키](http://wiki.minix3.org) |
 | ---   | ---     | ---     | --- | ---    | ---  |
 
 # 시작하기
@@ -61,3 +61,11 @@
 
 <a name="모임에-가입하기"></a>
 ## 단계 7 : 미닉스 3 모임에 가입하기
+
+ 경험이 많을수록, 미닋 3 모임에 가입하고 싶을 것이다. 더 배우려면 상단의 [모임](http://wiki.minix3.org/doku.php?id=www:community:start) 연결을 클릭하시오. 당신의 글과 소프트웨어 포팅 도움을 더욱 환영한다. NetBSD 소프트웨어 포팅은 일반적으로 가장쉬운 길이다 왜냐하면 미닉스 3 사용자 접속기는 NetBSD에 가깝게 양식화되었다 그리고 미닉스 3 패키지 관리자, pkgsrc, NetBSD에서 포팅되었다. 어떤 시점에 다른사람을 도울 수있을 정도의 충분한 지식을 습득했을 수 있다. 그것은 위키에 이바지할 때가 된 것이다.
+
+ 한번 정말로 잘 되었다면, 당신은 현재 개발들을 추적하기 위해 깃 [:earth_asia:저장소](http://git.minix3.org/?p=minix.git) 탐색을 시작하기 원할 것이다.
+
+  끝으로, 우리는 당신이 관심을 가질만한 미닉스 3 [:earth_asia:상품](http://www.cafepress.co.uk/minixmerch)(티셔츠, 등등.)을 가지고 있다.
+
+  행운을 빈다 그리고 즐겨라!

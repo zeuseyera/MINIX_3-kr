@@ -3,7 +3,7 @@
 
 출처: http://www.minix3.org
 
-| [앞마당](./README.md) | [시작하기](./SiJakHaGi/SiJakHaGi.md) | 내려받기 | 모임 | 새소식 | 위키 |  
+| [앞마당](./README.md) | [시작하기](./SiJakHaGi/SiJakHaGi.md) | [내려받기](http://www.minix3.org/download) | [모임](http://www.minix3.org/community) | [새소식](http://www.minix3.org/news) | [위키](http://wiki.minix3.org) |  
 | ---   | ---     | ---     | --- | ---    | ---  |  
 
 미닉스(MINIX) 3은 무엇인가?
@@ -59,7 +59,7 @@
 <a name="미닉스3-ARM"></a>
 ## 5. ARM에서의 미닉스 3
 
- 소박이 시스템에 관심이 있다면, 지원되는 :earth_asia:비글중 하나를 원할 수 있다. 3개의 보드가 지원된다: 비글보드 XM(BeagleBoard XM), 비글본 하양(BeagleBone White), 그리고 비글본 검정(BeagleBone Black). 최고급라인 비글본 검정(BeagleBone Black)은 55달러다. 다른 것들은 조금 싸다. 당신의 관심이 여기에 있다면 당신은 개발자일 가능성 가장 높다. 그러므로 당신은 반드시 (미닉스 3 ARM 개발자 안내[MINIX 3 ARM developers guide)](http://wiki.minix3.org/doku.php?id=developersguide:minixonarm)를 읽어야 한다.
+ 소박이 시스템에 관심이 있다면, 지원되는 :earth_asia:비글중 하나를 원할 수 있다. 3개의 보드가 지원된다: 비글보드 XM(BeagleBoard XM), 비글본 하양(BeagleBone White), 그리고 비글본 검정(BeagleBone Black). 최고급라인 비글본 검정(BeagleBone Black)은 55달러다. 다른 것들은 조금 싸다. 당신의 관심이 여기에 있다면 당신은 개발자일 가능성 가장 높다. 그러므로 당신은 반드시 [미닉스 3 ARM 개발자 안내(MINIX 3 ARM developers guide)](http://wiki.minix3.org/doku.php?id=developersguide:minixonarm)를 읽어야 한다.
 
  ![비글 이미지](images/beagles.png)
 
@@ -80,9 +80,9 @@
 
  앤드류 타넨바움은 미닉스 3에 대한 몇개의 비디오를 제작했다. 다음같이 유튜브에서 볼 수 있다.
 
-- :earth_asia:[앤드류 타넨바움의 뉘른베르크 소박이 세계전시회에서 미닉스 3 시연](https://www.youtube.com/watch?v=vlOsy0PZZyc&feature=youtu.be)
-- :earth_asia:[앤드류 타넨바움과의 회견, IEEE //컴퓨터 //잡지](http://www.youtube.com/watch?v=86_BkFsb4eI)
-- :earth_asia:[FOSDEM에서 앤드류 타넨바움의 미닉스 3에 관한 이야기](http://www.youtube.com/watch?v=bx3KuE7UjGA)
+- [:earth_asia:앤드류 타넨바움의 뉘른베르크 소박이 세계전시회에서 미닉스 3 시연](https://www.youtube.com/watch?v=vlOsy0PZZyc&feature=youtu.be)
+- [:earth_asia:앤드류 타넨바움과의 회견, IEEE //컴퓨터 //잡지](http://www.youtube.com/watch?v=86_BkFsb4eI)
+- [:earth_asia:FOSDEM에서 앤드류 타넨바움의 미닉스 3에 관한 이야기](http://www.youtube.com/watch?v=bx3KuE7UjGA)
 
 <a name="미닉스3-웹"></a>
 ## 9. 웹에서 미닉스 3
@@ -90,16 +90,16 @@
  미닉스 3은 웹의 여러 곳에서 출현했다. 여기에 몇개의 참조가 있다.
 
 - :earth_asia:[IEEE 컴퓨터 잡지](http://www.computer.org/csdl/mags/co/2014/07/mco2014070007.pdf)
-- :earth_asia:[LOGIN](http://c59951.r51.cf2.rackcdn.com/5663-61781-tanenbaum.pdf)
-- :earth_asia:[위키피디아에서 MINIX 3](http://en.wikipedia.org/wiki/MINIX_3)
-- :earth_asia:[위키피디아에서 MINIX](http://en.wikipedia.org/wiki/MINIX)
-- :earth_asia:[OS 소식](http://www.osnews.com/story/15960/Introduction-to-MINIX-3/)
-- :earth_asia:[PC 리눅스 OS 잡지](http://pclosmag.com/html/Issues/201112/page15.html)
-- :earth_asia:[DistroWatch](http://distrowatch.com/table.php?distribution=minix)
-- :earth_asia:[리눅스 학술지](http://www.linuxjournal.com/article/10754)
-- :earth_asia:[Slashdot](http://tech.slashdot.org/story/13/02/23/1946247/minix-321-released)
-- :earth_asia:[LWN](http://lwn.net/Articles/485658/)
-- :earth_asia:[리눅스 잡지](http://www.linux-magazine.com/Issues/2009/99/Minix-3)
-- :earth_asia:[InfoQ](http://www.infoq.com/news/2009/05/MINIX)
-- :earth_asia:[Encyclopine](http://encyclopine.org/en/MINIX_3)
-- :earth_asia:[Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=MTU5MzY)
+- [:earth_asia:LOGIN](http://c59951.r51.cf2.rackcdn.com/5663-61781-tanenbaum.pdf)
+- [:earth_asia:위키피디아에서 MINIX 3](http://en.wikipedia.org/wiki/MINIX_3)
+- [:earth_asia:위키피디아에서 MINIX](http://en.wikipedia.org/wiki/MINIX)
+- [:earth_asia:OS 소식](http://www.osnews.com/story/15960/Introduction-to-MINIX-3/)
+- [:earth_asia:PC 리눅스 OS 잡지](http://pclosmag.com/html/Issues/201112/page15.html)
+- [:earth_asia:DistroWatch](http://distrowatch.com/table.php?distribution=minix)
+- [:earth_asia:리눅스 학술지](http://www.linuxjournal.com/article/10754)
+- [:earth_asia:Slashdot](http://tech.slashdot.org/story/13/02/23/1946247/minix-321-released)
+- [:earth_asia:LWN](http://lwn.net/Articles/485658/)
+- [:earth_asia:리눅스 잡지](http://www.linux-magazine.com/Issues/2009/99/Minix-3)
+- [:earth_asia:InfoQ](http://www.infoq.com/news/2009/05/MINIX)
+- [:earth_asia:Encyclopine](http://encyclopine.org/en/MINIX_3)
+- [:earth_asia:Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=MTU5MzY)
