@@ -5,7 +5,7 @@
 | [앞마당](./README.md) | [시작하기](./SiJakHaGi/SiJakHaGi.md) | [내려받기](http://www.minix3.org/download) | [모임](http://www.minix3.org/community) | [새소식](http://www.minix3.org/news) | [위키](http://wiki.minix3.org) |  
 | ---   | ---     | ---     | --- | ---    | ---  |  
 
-여기에 미닉스 3의 더 흥미로운 기능이 일부 있다.
+여기에 미닉스 3의 더 흥미로운 특징이 일부 있다.
 
 ### 1. 일반 특징
 
