@@ -6,10 +6,22 @@
 | [앞마당](./README.md) | [시작하기](./SiJakHaGi/SiJakHaGi.md) | [내려받기](http://www.minix3.org/download) | [모임](http://www.minix3.org/community) | [새소식](http://www.minix3.org/news) | [위키](http://wiki.minix3.org) |  
 | ---   | ---     | ---     | --- | ---    | ---  |  
 
+![미닉스로고](./images/logo-minix3.png)
+
 미닉스(MINIX) 3은 무엇인가?
 
 > 미닉스 3은 높은 신뢰성, 유연하고, 안전하게 설계된 자유로운, 공개된원본, 운영체제이다. 이것은 커널모드에서 실행되는 꼬맹이 마이크로커널을 기반으로 나머지 운영체제가 실행된다 사용자모드에서 격리되고, 보호된 여러 프로세스로. 이것은 x86 및 ARM CPU에서 실행되며, NetBSD와 호환되고, 수많은 NetBSD 패키지를 실행한다. 지금즉시 미닉스 3을 마련하고 [우리의 커뮤니티에 가입](http://wiki.minix3.org/doku.php?id=www:community:)하라!
 
+ ###### 미닉스 3에 대해 더 배우기
+
+ - [특징: 미닉스3 특징목록 보기](./TeukJing.md)[(영문)](http://wiki.minix3.org/doku.php?id=www:documentation:features)
+ - [자주묻는 질문(FAQ): 공통질문에 대한 빠른 답변](http://wiki.minix3.org/doku.php?id=faq)
+ - [초보자를 위한 자원: 초보자를 위한 정보](http://wiki.minix3.org/doku.php?id=www:documentation:resources)
+ - [기록문서: 다양한 기사](http://wiki.minix3.org/doku.php?id=www:documentation:)
+ - [블로그: 블로그 읽기](http://blog.minix3.org/)
+ - [연구: 연구를 위한 미닉스3 기초](http://wiki.minix3.org/doku.php?id=www:documentation:research)
+
+---
 
 목록
 1. [미닉스(MINIX) 3은 무엇인가?](#미닉스3은-무엇인가)
@@ -52,7 +64,7 @@
 <a name="미닉스3-설치하기"></a>
 ## 4. 컴퓨터에 미닉스 3 설치하기
 
- 설치가 간단하다. 먼저 CD-ROM 이미지를 내려받는다, `.iso` 파일인, 첫장에서 "지금받기" 단추를 클릭하여. 파일을 저장한다. 그런다음 PC에 설치하려는 경우, 먼저 CD-ROM에 `.iso` 파일을 넣는다 그리고 이것으로 컴퓨터를 부팅한다. 가상기계에 설치하려는 경우(예, VMware 에), `.iso` 파일을 CD-ROM으로 사용하도록 가상기계를 구성한다 그리고 그 가상기계를 부팅을 한다. 어느 쪽이든, 몇 초 안에 부팅된다. `root`(암호 없음)로 로그인 한다 그리고 `setup`을 입력한다. 이것은 한번에 한 단계씩 설치가 완료되도록 유도한다. 몇 분 밖에 걸리지 않는다. 완료되면, `reboot`를 입력한다. 재부팅 후, `root`로 다시 로그인 한다 그리고 실행한다. 더 자세한 지침은 첫장의 "[시작하기(GETTING STARTED)](http://wiki.minix3.org/doku.php?id=www:getting-started:start)" 탭에서 찾을 수 있다.
+ 설치가 간단하다. 먼저 CD-ROM 이미지를 내려받는다, `.iso` 파일인, 첫장에서 "지금받기" 단추를 클릭하여. 파일을 저장한다. 그런다음 PC에 설치하려는 경우, 먼저 CD-ROM에 `.iso` 파일을 넣는다 그리고 이것으로 컴퓨터를 부팅한다. 가상기계에 설치하려는 경우(예, VMware 에), `.iso` 파일을 CD-ROM으로 사용하도록 가상기계를 구성한다 그리고 그 가상기계를 부팅을 한다. 어느 쪽이든, 몇 초 안에 부팅된다. `root`(암호 없음)로 로그인 한다 그리고 `setup`을 입력한다. 이것은 한번에 한 단계씩 설치가 완료되도록 유도한다. 몇 분 밖에 걸리지 않는다. 완료되면, `reboot`를 입력한다. 재부팅 후, `root`로 다시 로그인 한다 그리고 실행한다. 더 자세한 지침은 첫장의 "[시작하기](./SiJakHaGi/SiJakHaGi.md)[(영문)](http://wiki.minix3.org/doku.php?id=www:getting-started:start)" 탭에서 찾을 수 있다.
 
  미닉스 3 사용자영역은 :earth_asia:NetBSD와 크게(하지만 완전하지 않다) 호환된다, 이는 수많은 NetBSD 패키지를 미닉스 3에 설치되고 실행될 수 있음을 의미한다. 처음 시스템 설치가 끝난 후에, 당신은 아마도 수많은 패키지중 일부를 설치하려 할 것이다. 설치 방법은 `wiki` 탭에서 [사용자안내(UseGuide)](http://wiki.minix3.org/doku.php?id=usersguide:start) => [바이너리패키지 설치(Installing Binary Packages)](http://wiki.minix3.org/doku.php?id=usersguide:installingbinarypackages) 페이지를 봐라. 이것은 비글의 모습이다.
 
@@ -89,17 +101,17 @@
 
  미닉스 3은 웹의 여러 곳에서 출현했다. 여기에 몇개의 참조가 있다.
 
-- :earth_asia:[IEEE 컴퓨터 잡지](http://www.computer.org/csdl/mags/co/2014/07/mco2014070007.pdf)
-- [:earth_asia:LOGIN](http://c59951.r51.cf2.rackcdn.com/5663-61781-tanenbaum.pdf)
-- [:earth_asia:위키피디아에서 MINIX 3](http://en.wikipedia.org/wiki/MINIX_3)
-- [:earth_asia:위키피디아에서 MINIX](http://en.wikipedia.org/wiki/MINIX)
-- [:earth_asia:OS 소식](http://www.osnews.com/story/15960/Introduction-to-MINIX-3/)
-- [:earth_asia:PC 리눅스 OS 잡지](http://pclosmag.com/html/Issues/201112/page15.html)
-- [:earth_asia:DistroWatch](http://distrowatch.com/table.php?distribution=minix)
-- [:earth_asia:리눅스 학술지](http://www.linuxjournal.com/article/10754)
-- [:earth_asia:Slashdot](http://tech.slashdot.org/story/13/02/23/1946247/minix-321-released)
-- [:earth_asia:LWN](http://lwn.net/Articles/485658/)
-- [:earth_asia:리눅스 잡지](http://www.linux-magazine.com/Issues/2009/99/Minix-3)
-- [:earth_asia:InfoQ](http://www.infoq.com/news/2009/05/MINIX)
-- [:earth_asia:Encyclopine](http://encyclopine.org/en/MINIX_3)
-- [:earth_asia:Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=MTU5MzY)
+- [:earth_asia: IEEE 컴퓨터 잡지](http://www.computer.org/csdl/mags/co/2014/07/mco2014070007.pdf)
+- [:earth_asia: LOGIN](http://c59951.r51.cf2.rackcdn.com/5663-61781-tanenbaum.pdf)
+- [:earth_asia: 위키피디아에서 MINIX 3](http://en.wikipedia.org/wiki/MINIX_3)
+- [:earth_asia: 위키피디아에서 MINIX](http://en.wikipedia.org/wiki/MINIX)
+- [:earth_asia: OS 소식](http://www.osnews.com/story/15960/Introduction-to-MINIX-3/)
+- [:earth_asia: PC 리눅스 OS 잡지](http://pclosmag.com/html/Issues/201112/page15.html)
+- [:earth_asia: DistroWatch](http://distrowatch.com/table.php?distribution=minix)
+- [:earth_asia: 리눅스 학술지](http://www.linuxjournal.com/article/10754)
+- [:earth_asia: Slashdot](http://tech.slashdot.org/story/13/02/23/1946247/minix-321-released)
+- [:earth_asia: LWN](http://lwn.net/Articles/485658/)
+- [:earth_asia: 리눅스 잡지](http://www.linux-magazine.com/Issues/2009/99/Minix-3)
+- [:earth_asia: InfoQ](http://www.infoq.com/news/2009/05/MINIX)
+- [:earth_asia: Encyclopine](http://encyclopine.org/en/MINIX_3)
+- [:earth_asia: Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=MTU5MzY)
